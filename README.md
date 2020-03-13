@@ -1,5 +1,5 @@
 # UberAlt - July 2019
-## A mobile alternative to Uber or Lyft written in Android written to practice coding ability
+## A mobile alternative to Uber written in Android to practice coding ability
 ### About:
 The Passenger Portal and Transport Provider Portal files contain gradle and script codes for Android applications which can interact and schedule rides, determine oneʼs current location in Google Maps, and alter oneʼs details which are available to other users on the application. Such applications ideally coordinate through the transmission of data via cloud storage, and Googleʼs Firebase Realtime Database software is included within the code. This cloud hosting platform enables both portals to upload the passenger/transport providerʼs location, destination (if applicable), description. Ultimately, the Passenger Portal would be able to access the array of Transport Providers, map their locations and index them from closest to furthest, and generate an optimized route for Transport Providers to follow to take Passengers to their destinations.
 ### Restrictions:
